@@ -24,7 +24,9 @@ This implementation includes:
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/transformer-from-scratch.git
-cd transformer-from-scratch'''
+cd transformer-from-scratch
+
+python train.py
 
 
 
